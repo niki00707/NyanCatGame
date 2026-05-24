@@ -23,19 +23,22 @@
 
 ## Главное меню
 
-ТУТ_БУДЕТ_СКРИН_1
+<img width="798" height="601" alt="image" src="https://github.com/user-attachments/assets/c2847b88-4f12-4579-988c-f7f9aead6792" />
+
 
 ---
 
 ## Игровой процесс
 
-ТУТ_БУДЕТ_СКРИН_2
+<img width="800" height="598" alt="image" src="https://github.com/user-attachments/assets/5285d37e-1489-4d94-a0d5-c3ddcaddc574" />
+
 
 ---
 
 ## Экран победы
 
-ТУТ_БУДЕТ_СКРИН_3
+<img width="799" height="599" alt="image" src="https://github.com/user-attachments/assets/225e9044-3af6-44b6-8a92-f0b339a32a48" />
+
 
 ---
 
