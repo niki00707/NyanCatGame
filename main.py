@@ -605,7 +605,7 @@ while game:
         else:
             medium_color = GRAY
 
-        if unlocked_levels >= 2:
+        if unlocked_levels >= 3:
             hard_color = YELLOW
         else:
             hard_color = GRAY
