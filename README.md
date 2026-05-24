@@ -67,7 +67,7 @@ NyanCatGame/
 ## 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/niki00707/NyanCatGame-Pygame.git
+git clone https://github.com/niki00707/NyanCatGame.git
 ```
 
 ---
