@@ -368,7 +368,7 @@ while game:
                     reset_game()
 
                 # Средний уровень
-                if event.key == pygame.K_1 and unlocked_levels >= 2:
+                if event.key == pygame.K_2 and unlocked_levels >= 2:
 
                     # Перезапуск музыки
                     SOUND_BG_MUSIC.stop()
@@ -387,7 +387,7 @@ while game:
                     reset_game()
 
                 # Сложный уровень
-                if event.key == pygame.K_1 and unlocked_levels >= 3:
+                if event.key == pygame.K_3 and unlocked_levels >= 3:
 
                     # Перезапуск музыки
                     SOUND_BG_MUSIC.stop()
